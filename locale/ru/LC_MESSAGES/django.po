@@ -35,23 +35,23 @@ msgstr "Не удалось войти. Пожалуйста, попробуйт
 
 #: src/olympia/accounts/views.py
 msgid "Your account has already been migrated to Firefox Accounts."
-msgstr "Ваш аккаунт уже перенесён в Firefox аккаунты."
+msgstr ""
 
 #: src/olympia/accounts/views.py
 msgid "Your Firefox Account already exists on this site."
-msgstr "Ваш Firefox аккаунт уже есть на этом сайте."
+msgstr ""
 
 #: src/olympia/accounts/views.py
 msgid "Great job!"
-msgstr "Отличная работа!"
+msgstr ""
 
 #: src/olympia/accounts/views.py
 msgid "You can now log in to Add-ons with your Firefox Account."
-msgstr "Сейчас вы можете войти в дополнения через ваш Firefox аккаунт."
+msgstr ""
 
 #: src/olympia/accounts/views.py
 msgid "Need help?"
-msgstr "Нужна помощь?"
+msgstr ""
 
 #: src/olympia/addons/buttons.py
 msgid "Download Now"
