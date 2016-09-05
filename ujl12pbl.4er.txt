@@ -1,9 +1,10 @@
-﻿pick 242ab5f Next try
-s ada9466 Update
-s ae94350 Big cleaning
-s bad7342 Another fix for testing
+﻿pick 674a067 1
+squash 90b43b3 2
+squash 7908dc9 3
+squash dccbc64 4
+squash e50c204 5
 
-# Rebase 2dd9450..bad7342 onto 2dd9450 (4 command(s))
+# Rebase 5f8733f..e50c204 onto 5f8733f (5 command(s))
 #
 # Commands:
 # p, pick = use commit
